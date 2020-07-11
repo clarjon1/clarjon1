@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm clarjon1! I do some computery things. I have a blog I sometimes update when I have content over at https://clarjon1.com/ 
+
 <!--
 **clarjon1/clarjon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
